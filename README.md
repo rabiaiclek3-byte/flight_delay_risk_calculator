@@ -5,7 +5,7 @@ A Python program that estimates flight delay risk, expected delay time, and tick
 ## How to run
 
 ```
-flight_delay_risk_calculator.py
+Python flight_delay_risk_calculator.py
 ```
 
 Answer the questions it asks (route, month, day, time, weather, etc.), and it prints a risk score and price range at the end.
